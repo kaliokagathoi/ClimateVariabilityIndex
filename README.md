@@ -1,4 +1,4 @@
-# ClimateVariabilityIndex
+# Climate Variability Index
 Backend for Climate Variability Index by Tom Coates
 
 Please see the Releases for the latest Release
