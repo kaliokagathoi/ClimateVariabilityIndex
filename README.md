@@ -8,3 +8,5 @@ Please see the Releases for the latest Release
 - Graph title auto-update [v2.0]
 - Location request form [v2.1]
 - API integration for automatic data updates [v3.0]
+
+Data Sourced from Open-Meteo.com
